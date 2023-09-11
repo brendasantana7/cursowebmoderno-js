@@ -1,0 +1,12 @@
+
+/* Ferramentas online para testar JavaScript: 
+
+    *repl.it (pronuncia: replit)
+    
+    * jsfiddle.net (pronuncia:fidou) 
+        pode utilizar biblioteca externa
+
+    *console no navegador (tem acesso a biblioteca utilizada na criação do site)
+
+    ctrl + alt + n (executa o código no vscode com o plugin instalado code runner)
+    */
